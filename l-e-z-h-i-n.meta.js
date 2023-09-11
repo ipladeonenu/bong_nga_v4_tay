@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         l-e-z-h-i-n
 // @namespace    https://github.com/ipladeonenu/bong_nga_v4_tay/raw/main/l-e-z-h-i-n.user.js
-// @version      2023.09.03
+// @version      2023.09.11
 // @description  down l-e-z-h-i-n
 // @author       You
 // @match        https://www.lezhin.com/ko/comic/*/*
